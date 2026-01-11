@@ -1,7 +1,7 @@
 class GuessingGame < Formula
   desc "a guessing game in rust"
   homepage "https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html"
-  sha256 "https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html"
+  sha256 "55055fd6ae37e715dfc731a7597b9b16f6fc71ccbd59700c69971fcf8e930c16"
   url "https://github.com/hannahscovill/the-rust-programming-language/archive/refs/tags/0.0.1.tar.gz"
   version "0.0.1"
 
