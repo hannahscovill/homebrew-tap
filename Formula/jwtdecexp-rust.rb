@@ -1,4 +1,4 @@
-class JwtDecExp < Formula
+class JwtDecExpRust < Formula
   desc "a jwt decoder in rust"
   homepage "https://github.com/hannahscovill/the-rust-programming-language"
   sha256 "c5c098abfb41327b8666e4200231bc99626120a097220c59dd3952132b1dfd9f"
